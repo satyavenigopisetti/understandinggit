@@ -1,4 +1,6 @@
- 1. Create a GitHub Repository
+GITHUB BASICS
+
+1. Create a GitHub Repository
 Go to https://github.com/new
 Create a new repo — do not initialize with README if you're pushing existing files.
 
